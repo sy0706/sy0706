@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sy0706
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Javascript and Python.
-- 💞️ I’m looking to collaborate on other coders!
+- 💞️ I’m looking to collaborate with other coders!
 - 📫 How to reach me: here in GitHub.
 
 <!---
